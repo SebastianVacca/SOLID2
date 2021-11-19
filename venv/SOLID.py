@@ -1,17 +1,14 @@
-class coche:
+class Coche:
     marca = ""
 
     def __init__(self, marca):
          self.marca = ""
 
-    def getmarca(self):
-        return marca
-
-    def getmarcaCoche(string):
+    def getmarcaCoche():
         return marca
 
 
-class cocheDB:
+class CocheDB:
 
     def guardarCocheDB(Coche):
         {""}
