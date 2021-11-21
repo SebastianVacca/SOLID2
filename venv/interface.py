@@ -4,10 +4,15 @@ class IAve:
 class AveVoladora:
     volar = ""
 
-class AvenoColadora:
+class Avenovoladora:
     nadar = ""
 
 class Loro:
-    def AveVoaldora(IAve):
-        volar = ""
+    AveVoladora()
+    IAve()
+
+class pinguino:
+    Avenovoladora()
+    IAve()
+
 
